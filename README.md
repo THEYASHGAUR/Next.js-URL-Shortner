@@ -67,27 +67,4 @@ A simple URL shortening service built with Next.js.
 - `POST /api/shorten`: Shorten a URL
 - `GET /:shortUrl`: Redirect to the original URL
 
-## Usage
-
-### Shorten a URL
-
-1. Enter a URL in the input field on the home page.
-2. Click "Shorten" to generate a short URL.
-3. The short URL will be displayed below the form.
-
-### View All Shortened URLs
-
-1. Click "View All Shortened URLS" on the home page.
-2. See a list of all shortened URLs and their corresponding original URLs.
-
-## Contributing
-
-Feel free to submit issues and pull requests.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize this README file further based on your specific needs or any additional details you want to include.
+## MORE UPDATES ARE COMING SOON.!!!!!

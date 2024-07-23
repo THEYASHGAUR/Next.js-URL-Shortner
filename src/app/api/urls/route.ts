@@ -1,6 +1,6 @@
 import { UrlShortenerService } from "../../../services/UrlShortnerService";
 import { NextResponse } from "next/server";
-import { cache } from "react";
+
 
 const fetchUrls = async () => {
     const shortenerService = new UrlShortenerService();

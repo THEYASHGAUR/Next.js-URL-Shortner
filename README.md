@@ -1,6 +1,4 @@
-Certainly! Here is a concise README file for your Next.js URL Shortener project:
 
----
 
 # Next.js URL Shortener
 
@@ -16,6 +14,7 @@ A simple URL shortening service built with Next.js.
 
 - Next.js
 - TypeScript
+- TailwindCSS
 - MongoDB
 - Mongoose
 
